@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3, kivy, pyzbar, pillow, opencv-python
+requirements = python3, kivy, pyzbar, Pillow, numpy, plyer
 
 # Использование расширенных прав доступа для использования камеры устройства
 android.permissions = CAMERA
